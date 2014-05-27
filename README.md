@@ -8,7 +8,8 @@ Usage
 =====
 
 CleanupIO.exe -Folder="C:\GeneratedPDF" -Pattern="*.*" -Days="10"
-If you want to run this daily, you can easily use this in the Task Executor, which is a standard tool in Windows
+
+If you want to use this in a recurring way, you can easily use this in the Task Scheduler, which is a standard tool in Windows. Execute the Task Scheduler with Taskschd.msc in the Start Menu - Run (Ctrl + R)
 
 Arguments 
 =====
