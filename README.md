@@ -13,7 +13,7 @@ If you want to run this daily, you can easily use this in the Task Executor, whi
 Arguments 
 =====
 
-#-Folder : Which folder needs to be iterated
-#-Pattern: Delete which fileSearchPattern? (Eg. *.* = all, *.pdf = all pdf files)
-#-Days: How old must the file be
-#-Subdir: Searches through all directories (SearchOption.AllDirectories),  (default: SearchOption.TopDirectoryOnly)
+* -Folder : Which folder needs to be iterated
+* -Pattern: Delete which fileSearchPattern? (Eg. *.* = all, *.pdf = all pdf files)
+* -Days: How old must the file be
+* -Subdir: Searches through all directories (SearchOption.AllDirectories),  (default: SearchOption.TopDirectoryOnly)
