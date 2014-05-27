@@ -7,7 +7,7 @@ CLI for removing temp files and folders (eg. after converting html files to pdf 
 Usage
 =====
 
-CleanupIO.exe -Folder="C:\GeneratedPDF" -Pattern="*.*" -Days="10"
+CleanupIO.exe -Folder="C:\GeneratedPDF" -Pattern="\*.\*" -Days="10"
 
 If you want to use this in a recurring way, you can easily use this in the Task Scheduler, which is a standard tool in Windows. Execute the Task Scheduler with Taskschd.msc in the Start Menu - Run (Ctrl + R)
 
