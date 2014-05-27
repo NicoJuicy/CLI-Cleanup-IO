@@ -16,5 +16,5 @@ Arguments
 
 * -Folder : Which folder needs to be iterated
 * -Pattern: Delete which fileSearchPattern? (Eg. *.* = all, *.pdf = all pdf files)
-* -Days: How old must the file be
+* -Days: The minimal age of the file in days
 * -Subdir: Searches through all directories (SearchOption.AllDirectories),  (default: SearchOption.TopDirectoryOnly)
